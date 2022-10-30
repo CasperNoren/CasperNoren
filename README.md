@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 🎓 I'm currently studying at Mälardalen University
+🌱 I’m currently learning PHP and Godot
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/8HNtBPVjYZQ40/giphy.gif" width="100"/>
+</div>
