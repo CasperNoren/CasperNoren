@@ -9,6 +9,7 @@
 I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sweden 🇸🇪.
 <div display="inline">
   <img src="https://media.giphy.com/media/PoHs1Ne8rcMuZRJted/giphy.gif" width="175" align="right"/>
+  
   - 🎓 I'm currently studying at Mälardalen University
 
   - :telescope: I aim to become a back-end developer.
