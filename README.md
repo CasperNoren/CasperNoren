@@ -14,7 +14,7 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
 
   - :telescope: I aim to become a back-end developer.
 
-  - :seedling: Exploring deeper into databases, PHP and Godot.
+  - :seedling: Exploring deeper into databases, Flutter and Godot.
 
   - :zap: In my free time, I develop games, scuba dive.
 
